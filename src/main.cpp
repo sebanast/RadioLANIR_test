@@ -49,7 +49,6 @@ void setup() {
     audio.setPinout(I2S_BCLK, I2S_LRC, I2S_DOUT);
     audio.setVolume(volume); // 0...21
     IrReceiver.begin(irReceiverPin , DISABLE_LED_FEEDBACK);
-//    audio.connecttoFS(SD, "test.wav");
 //    audio.connecttohost("http://www.wdr.de/wdrlive/media/einslive.m3u");
 //    audio.connecttohost("http://somafm.com/wma128/missioncontrol.asx"); //  asx
 //    audio.connecttohost("http://mp3.ffh.de/radioffh/hqlivestream.aac"); //  128k aac
