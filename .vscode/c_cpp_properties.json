@@ -10,6 +10,9 @@
             "includePath": [
                 "/home/seba/PlatformIO/Projects/RadioLANIR_test/include",
                 "/home/seba/PlatformIO/Projects/RadioLANIR_test/src",
+                "/home/seba/PlatformIO/Projects/RadioLANIR_test/.pio/libdeps/esp32dev/ESPAsyncWebServer/src",
+                "/home/seba/.platformio/packages/framework-arduinoespressif32@src-ac41aa03a42a8a858af96c88e986b12c/libraries/WebServer/src",
+                "/home/seba/PlatformIO/Projects/RadioLANIR_test/.pio/libdeps/esp32dev/AsyncTCP@src-4025de6eb54e3d61260b0b7bdb363ba6/src",
                 "/home/seba/PlatformIO/Projects/RadioLANIR_test/.pio/libdeps/esp32dev/IRremote/src",
                 "/home/seba/PlatformIO/Projects/RadioLANIR_test/.pio/libdeps/esp32dev/ESP32-audioI2S/src",
                 "/home/seba/.platformio/packages/framework-arduinoespressif32@src-ac41aa03a42a8a858af96c88e986b12c/libraries/WiFi/src",
@@ -282,6 +285,7 @@
                 "/home/seba/.platformio/packages/framework-arduinoespressif32-libs/esp32/dio_qspi/include",
                 "/home/seba/.platformio/packages/framework-arduinoespressif32@src-ac41aa03a42a8a858af96c88e986b12c/cores/esp32",
                 "/home/seba/.platformio/packages/framework-arduinoespressif32@src-ac41aa03a42a8a858af96c88e986b12c/variants/esp32",
+                "/home/seba/PlatformIO/Projects/RadioLANIR_test/.pio/libdeps/esp32dev/AsyncTCP/src",
                 "/home/seba/.platformio/packages/framework-arduinoespressif32@src-ac41aa03a42a8a858af96c88e986b12c/libraries/ArduinoOTA/src",
                 "/home/seba/.platformio/packages/framework-arduinoespressif32@src-ac41aa03a42a8a858af96c88e986b12c/libraries/AsyncUDP/src",
                 "/home/seba/.platformio/packages/framework-arduinoespressif32@src-ac41aa03a42a8a858af96c88e986b12c/libraries/BLE/src",
@@ -309,7 +313,6 @@
                 "/home/seba/.platformio/packages/framework-arduinoespressif32@src-ac41aa03a42a8a858af96c88e986b12c/libraries/Ticker/src",
                 "/home/seba/.platformio/packages/framework-arduinoespressif32@src-ac41aa03a42a8a858af96c88e986b12c/libraries/USB/src",
                 "/home/seba/.platformio/packages/framework-arduinoespressif32@src-ac41aa03a42a8a858af96c88e986b12c/libraries/Update/src",
-                "/home/seba/.platformio/packages/framework-arduinoespressif32@src-ac41aa03a42a8a858af96c88e986b12c/libraries/WebServer/src",
                 "/home/seba/.platformio/packages/framework-arduinoespressif32@src-ac41aa03a42a8a858af96c88e986b12c/libraries/WiFiProv/src",
                 "/home/seba/.platformio/packages/framework-arduinoespressif32@src-ac41aa03a42a8a858af96c88e986b12c/libraries/Wire/src",
                 ""
@@ -319,6 +322,9 @@
                 "path": [
                     "/home/seba/PlatformIO/Projects/RadioLANIR_test/include",
                     "/home/seba/PlatformIO/Projects/RadioLANIR_test/src",
+                    "/home/seba/PlatformIO/Projects/RadioLANIR_test/.pio/libdeps/esp32dev/ESPAsyncWebServer/src",
+                    "/home/seba/.platformio/packages/framework-arduinoespressif32@src-ac41aa03a42a8a858af96c88e986b12c/libraries/WebServer/src",
+                    "/home/seba/PlatformIO/Projects/RadioLANIR_test/.pio/libdeps/esp32dev/AsyncTCP@src-4025de6eb54e3d61260b0b7bdb363ba6/src",
                     "/home/seba/PlatformIO/Projects/RadioLANIR_test/.pio/libdeps/esp32dev/IRremote/src",
                     "/home/seba/PlatformIO/Projects/RadioLANIR_test/.pio/libdeps/esp32dev/ESP32-audioI2S/src",
                     "/home/seba/.platformio/packages/framework-arduinoespressif32@src-ac41aa03a42a8a858af96c88e986b12c/libraries/WiFi/src",
@@ -591,6 +597,7 @@
                     "/home/seba/.platformio/packages/framework-arduinoespressif32-libs/esp32/dio_qspi/include",
                     "/home/seba/.platformio/packages/framework-arduinoespressif32@src-ac41aa03a42a8a858af96c88e986b12c/cores/esp32",
                     "/home/seba/.platformio/packages/framework-arduinoespressif32@src-ac41aa03a42a8a858af96c88e986b12c/variants/esp32",
+                    "/home/seba/PlatformIO/Projects/RadioLANIR_test/.pio/libdeps/esp32dev/AsyncTCP/src",
                     "/home/seba/.platformio/packages/framework-arduinoespressif32@src-ac41aa03a42a8a858af96c88e986b12c/libraries/ArduinoOTA/src",
                     "/home/seba/.platformio/packages/framework-arduinoespressif32@src-ac41aa03a42a8a858af96c88e986b12c/libraries/AsyncUDP/src",
                     "/home/seba/.platformio/packages/framework-arduinoespressif32@src-ac41aa03a42a8a858af96c88e986b12c/libraries/BLE/src",
@@ -618,7 +625,6 @@
                     "/home/seba/.platformio/packages/framework-arduinoespressif32@src-ac41aa03a42a8a858af96c88e986b12c/libraries/Ticker/src",
                     "/home/seba/.platformio/packages/framework-arduinoespressif32@src-ac41aa03a42a8a858af96c88e986b12c/libraries/USB/src",
                     "/home/seba/.platformio/packages/framework-arduinoespressif32@src-ac41aa03a42a8a858af96c88e986b12c/libraries/Update/src",
-                    "/home/seba/.platformio/packages/framework-arduinoespressif32@src-ac41aa03a42a8a858af96c88e986b12c/libraries/WebServer/src",
                     "/home/seba/.platformio/packages/framework-arduinoespressif32@src-ac41aa03a42a8a858af96c88e986b12c/libraries/WiFiProv/src",
                     "/home/seba/.platformio/packages/framework-arduinoespressif32@src-ac41aa03a42a8a858af96c88e986b12c/libraries/Wire/src",
                     ""
